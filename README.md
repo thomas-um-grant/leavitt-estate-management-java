@@ -1,5 +1,5 @@
 # leavitt-estate-management-java
-Real-estate management Java desktop app for a class assignment
+Real-estate management Java desktop app for a class assignment (2019)
 
 Below is what it looks like:
 
